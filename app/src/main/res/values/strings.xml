@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Summer of Bitcoin Testapp</string>
+    <string name="awesome">Awesome!</string>
+    <string name="congratulations">Congratulations. If you are running this app on your phone or in an emulator, your setup is complete, and you are ready to build Android apps.</string>
+</resources>
