@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Summer of Bitcoin Testapp</string>
+    <string name="app_name">Summer of Bitcoin Testapp (part 1)</string>
     <string name="awesome">Awesome!</string>
-    <string name="congratulations">Congratulations. If you are running this app on your phone or in an emulator, your setup is complete, and you are ready to build Android apps.</string>
+    <string name="congratulations">Congratulations. If you are running this app on your phone or in an emulator, your setup is functional and you are ready to build basic Android apps. Make sure you test part 2 by pulling the bdk-library branch of the source code repository and building the second version of this sample app.</string>
 </resources>
