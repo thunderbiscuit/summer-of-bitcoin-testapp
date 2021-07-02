@@ -2,10 +2,10 @@
     <!-- Base application theme. -->
     <style name="Theme.Summerofbitcointestapp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-<!--        <item name="colorPrimary">@color/retro_yellow</item>-->
-<!--        <item name="colorPrimaryVariant">@color/retro_yellow</item>-->
-        <item name="colorPrimary">@color/retro_orange</item>
-        <item name="colorPrimaryVariant">@color/retro_orange</item>
+        <item name="colorPrimary">@color/retro_yellow</item>
+        <item name="colorPrimaryVariant">@color/retro_yellow</item>
+<!--        <item name="colorPrimary">@color/retro_orange</item>-->
+<!--        <item name="colorPrimaryVariant">@color/retro_orange</item>-->
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>

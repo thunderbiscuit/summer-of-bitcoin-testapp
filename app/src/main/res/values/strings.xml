@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Summer of Bitcoin Testapp</string>
+    <string name="app_name">Summer of Bitcoin Testapp (part 2)</string>
     <string name="awesome">Awesome!</string>
-    <string name="congratulations">Congratulations. If you are running this app on your phone or in an emulator, your setup is complete, and you are ready to build Android apps.</string>
+    <string name="congratulations">Congratulations again! You are running the bdk-library version of the app, which means your application was able to find the bitcoindevkit library in your local Maven repository. You\'re good to go for the full Summer of Bitcoin Wallet app.</string>
 </resources>
