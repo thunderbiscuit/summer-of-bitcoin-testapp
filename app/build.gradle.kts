@@ -38,6 +38,11 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.3.0")
     implementation("com.google.android.material:material:1.3.0")
     implementation("androidx.constraintlayout:constraintlayout:2.0.4")
+
+    // bitcoindevkit
+    implementation("org.bitcoindevkit.bdkjni:bdk-jni-debug:0.3.0-rc1")
+
+    // testing
     testImplementation("junit:junit:4.+")
     androidTestImplementation("androidx.test.ext:junit:1.1.3")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.4.0")
